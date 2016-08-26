@@ -1,6 +1,8 @@
 # vue-wp-demo-blog
 Wordpress + Vue demo blog
 
+Use with Wordpress + http://v2.wp-api.org/ plugin
+
 ## Build Setup
 
 ``` bash
